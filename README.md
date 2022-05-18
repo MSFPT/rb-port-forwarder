@@ -4,7 +4,7 @@
 
 port-forward forwards(obviously) an incomming TCP connection on a specific port to another local/remote port
 
-**Note:** Type 'exit' or 'quit' to exit the script safely (wont exit your netcat session)
+**Note:** Press 'Ctrl + C' or exit safely (won't terminate your netcat session)
 
 Support all OS's if ruby installed
 
