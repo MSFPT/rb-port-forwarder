@@ -53,5 +53,5 @@ ruby port-forwarder.rb -lp 80 -f 192.168.0.236:6060
    |   argument    |     default     | utilization |
    | ------------- | --------------- | ----------- |
    | `--local-port` or `-lp` |  | required |
-   | `--forward` or `f` | [your-ip]:[asks] | optional |
+   | `--forward` or `f` | [ip]:[port] | optional |
    | `--help` or `-h` |  | optional |
